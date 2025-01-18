@@ -21,7 +21,5 @@ In this lab you will be building a simple search engine for vehicle manufacturer
 
 
 ### What to Submit
-- Submit a PDF which contains the following:
-  - Your Name, Student Number, and UTORid
-  - A URL to your forked repository
-  - Your responses to the short answer questions
+- Make sure your final commit is before the deadline
+- Commit an "answers.txt" file with the answers to the short answer questions
