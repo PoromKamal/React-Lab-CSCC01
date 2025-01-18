@@ -13,11 +13,9 @@ In this lab you will be building a simple search engine for vehicle manufacturer
 
 
 ### Getting Started
-1. **Fork** this repository and **clone** it onto your local machine.
+1. **Install** the dependencies by running `npm install` in the root directory of the project.
 
-2. **Install** the dependencies by running `npm install` in the root directory of the project.
-
-3. **Start** the development server by running `npm start`.
+2. **Start** the development server by running `npm start`.
 
 
 ### What to Submit
