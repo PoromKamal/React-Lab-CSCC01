@@ -2,6 +2,8 @@
 
 In this lab you will be building a simple search engine for vehicle manufacturers using React.
 
+The lab guide is available on Querus.
+
 ### Learning Outcomes
 - Components
   - Props
