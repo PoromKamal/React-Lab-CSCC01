@@ -2,7 +2,7 @@
 
 In this lab you will be building a simple search engine for vehicle manufacturers using React.
 
-The lab guide is available on Querus.
+The lab guide is available on Querus: https://q.utoronto.ca/courses/372980/files?preview=35726115
 
 ### Learning Outcomes
 - Components
